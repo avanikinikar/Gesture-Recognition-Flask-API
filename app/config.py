@@ -1,3 +1,3 @@
 class Config:
-    DEBUG = True
+    DEBUG = False
     TESTING = False
